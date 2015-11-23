@@ -18,5 +18,5 @@ Can also set the zoom in threshold using this method
 ```
 Initial value of threshold is 3.0, so text will be zoomed 3 times its original size.
 
-Demo 
-<img src="https://raw.githubusercontent.com/nomanr/ZoomTextView/master/demo.gif" width="200">
+Demo <br/>
+<img src="https://raw.githubusercontent.com/nomanr/ZoomTextView/master/demo.gif" width="400">
